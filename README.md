@@ -59,7 +59,7 @@ git clone https://github.com/HariHaranLK/phase-2
 ```
 2. Run the project:
 ```
-python main.py
+Run the IPYNB File
 ```
 
 ---
