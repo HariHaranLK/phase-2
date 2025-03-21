@@ -7,7 +7,7 @@
 ## 🌟 **Project Overview**
 This project performs **speech sentiment analysis** using multiple deep learning models to classify audio data into emotional categories such as **positive, negative, and neutral**. The system processes raw speech signals by converting them into **spectrograms**, which are then fed into various **pre-trained and custom-built deep learning models** for feature extraction and classification.  
 <br>  
-![Sentiment](https://media.giphy.com/media/3orieRrCdQpXH3K7Ms/giphy.gif)  
+![Sentiment]([https://media.giphy.com/media/3orieRrCdQpXH3K7Ms/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fsentiment-analysis-is-unique-method-of-understand-your-users-interactions-undoubtedly-one-of-the-most-effec--197454764892190260%2F&psig=AOvVaw2HJr9FQUAW5pz9SdVtOJPk&ust=1742680437819000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDsyNWUnIwDFQAAAAAdAAAAABAI))  
 
 ---
 
@@ -43,8 +43,7 @@ This project performs **speech sentiment analysis** using multiple deep learning
 3. 📊 **Evaluation:**  
    - Validate the models using metrics like **accuracy, loss, precision, and recall**.  
    - Compare performance across different architectures.  
-<br>  
-![Training](https://media.giphy.com/media/l3q2wJsC23ikRxn7m/giphy.gif)  
+<br> 
 
 ---
 
