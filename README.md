@@ -76,7 +76,8 @@ python main.py
 - **⚡ CNN and DenseNet-121** provided efficient performance with moderate computational costs.  
 - **🔥 VGG16 and ResNet-50** showed slight overfitting but maintained high accuracy.  
 <br>  
-![image](https://github.com/user-attachments/assets/c22ed786-8b63-4de2-ace1-08057b143422)  
+<img src="https://github.com/user-attachments/assets/268cdea1-25ad-429b-8ff9-a8a13a5a32e1" width="600" height="300" />
+
 
 ---
 
@@ -92,14 +93,12 @@ python main.py
 - 🧑‍🎓 **KANNAN G**  
 - 🧑‍🎓 **SANJAY A**  
 <br>  
-![Teamwork](https://media.giphy.com/media/l3q2z2e5u7duuh1H2/giphy.gif)  
 
 ---
 
 ## 📜 **License**
 This project is licensed under the **MIT License**.  
 <br>  
-![License](https://media.giphy.com/media/l0HlQ7LRalNBSuLzq/giphy.gif)  
 
 ---
 
