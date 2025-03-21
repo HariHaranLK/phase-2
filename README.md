@@ -74,8 +74,8 @@ git clone <your-repo-link>
 ---
 
 ## **Contributors**
-- [HARI HARAN L K]  
-- [KANNAN G, SANJAY A]  
+- HARI HARAN L K
+- KANNAN G, SANJAY A
 
 ---
 
