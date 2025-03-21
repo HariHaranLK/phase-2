@@ -9,7 +9,7 @@ This project performs **speech sentiment analysis** using multiple deep learning
 <br>  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8a346e7c-83ae-40b7-93f0-d62cedba33cb" width="1000" height="500" />
+  <img src="https://github.com/user-attachments/assets/8a346e7c-83ae-40b7-93f0-d62cedba33cb" width="600" height="300" />
 </div>
 
   
