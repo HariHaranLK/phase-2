@@ -49,14 +49,6 @@ This project performs **speech sentiment analysis** using multiple deep learning
 ```
 git clone <your-repo-link>
 ```
-2. Install dependencies:
-```
-pip install -r requirements.txt
-```
-3. Run the project:
-```
-python main.py
-```
 
 ---
 
