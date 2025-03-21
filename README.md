@@ -75,9 +75,10 @@ python main.py
 - **✨ Xception and InceptionV3** demonstrated the highest accuracy, around **97%**, with low loss values.  
 - **⚡ CNN and DenseNet-121** provided efficient performance with moderate computational costs.  
 - **🔥 VGG16 and ResNet-50** showed slight overfitting but maintained high accuracy.  
-<br>  
+<br>
+<div align = 'center'>
 <img src="https://github.com/user-attachments/assets/268cdea1-25ad-429b-8ff9-a8a13a5a32e1" width="600" height="300" />
-
+</div>
 
 ---
 
