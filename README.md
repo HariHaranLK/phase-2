@@ -8,7 +8,7 @@
 This project performs **speech sentiment analysis** using multiple deep learning models to classify audio data into emotional categories such as **positive, negative, and neutral**. The system processes raw speech signals by converting them into **spectrograms**, which are then fed into various **pre-trained and custom-built deep learning models** for feature extraction and classification.  
 <br>  
 
-![image](https://github.com/user-attachments/assets/8a346e7c-83ae-40b7-93f0-d62cedba33cb)
+<img src="https://github.com/user-attachments/assets/8a346e7c-83ae-40b7-93f0-d62cedba33cb" width="400" height="300" />
   
 
 ---
