@@ -55,13 +55,9 @@ This project performs **speech sentiment analysis** using multiple deep learning
 ## 🚀 **Installation**
 1. Clone the repository:
 ```
-git clone <your-repo-link>
+git clone https://github.com/HariHaranLK/phase-2
 ```
-2. Install dependencies:
-```
-pip install -r requirements.txt
-```
-3. Run the project:
+2. Run the project:
 ```
 python main.py
 ```
