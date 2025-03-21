@@ -64,6 +64,8 @@ git clone <your-repo-link>
 - **CNN and DenseNet-121** provided efficient performance with moderate computational costs.  
 - **VGG16 and ResNet-50** showed slight overfitting but maintained high accuracy.  
 
+![image](https://github.com/user-attachments/assets/d66e0bc4-33d0-40a7-8192-3a1e637b9e5d)
+
 ---
 
 ## **Future Enhancements**
